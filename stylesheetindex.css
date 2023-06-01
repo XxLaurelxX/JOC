@@ -6,7 +6,7 @@ body, html {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("C:/Users/26jonahki/Desktop/Google Site/IMG_3740.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("IMG_3740.jpeg");
   height: 40%;
   background-position: center;
   background-repeat: no-repeat;
